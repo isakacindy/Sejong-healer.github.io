@@ -1,6 +1,5 @@
 # Sejong-Healer
-Psychological counseling chatbot for Sejong University students.
-
+Psychological counseling chatbot for Sejong University students.  
 Documentation is available on Read the Docs: https://semi-sanggung.readthedocs.io/en/latest/
 
 ## Naming and branding of the proposed project
@@ -12,7 +11,8 @@ As COVID-19 is prolonged, the "COVID-19 Blue" phenomenon, which feels depressed,
 In particular, more than half of college students think their lives are not happy, and their happiness index is 53.3 points on average based on 100 points. According to Albamon's survey of 989 male and female college students on the "Happiness Index & Stress Index" college students themselves scored 53.3 points on average out of 100.
 
 ## Mission Statement
-However, college students are reluctant to consult a psychiatric counseling that the medical records will affect the purpose later.Therefore, we want to prepare a method of making psychological counseling bonds.
+However, college students are reluctant to consult a psychiatric counseling that the medical records will affect the purpose later.  
+Therefore, we want to prepare a method of making psychological counseling bonds.
 
 ## Features List
 - Talk about what you want to consult through this chat.
